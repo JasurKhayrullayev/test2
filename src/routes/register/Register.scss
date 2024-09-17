@@ -1,0 +1,162 @@
+.register__header{
+    padding: 10px 0 0 32px;
+}
+
+.register__already{
+    display: flex;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    justify-content: flex-end;
+    padding-right: 32px;
+    p{
+        color: #191919;
+        margin-right: 5px;
+    }
+
+}
+
+.register__already-link{
+    color:#0654BA;
+}
+
+.register__container{
+    max-width: 774px;
+    margin: 0 auto;
+    padding-top: 39px;
+}
+
+.register__create{
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 46px;
+    text-align: center;
+    color: #191919;
+    margin-bottom: 65px;
+}
+
+.register__create-wrapper{
+    display: flex;
+}
+
+.register__createUser-wrapper{
+    display: flex;
+    flex-direction: column;
+    padding: 40px 86px 40px 0;
+    width: 380px;
+}
+
+.register__createUser-box{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 24px;
+}
+
+.register__createUser-name{
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #191919;
+    text-align: center;
+    width: 138px;
+    height: 40px;
+    background: #F7F7F7;
+    border: 1px solid #8F8F8F;
+    border-radius: 8px;
+}
+
+.register__createUser-email{
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #191919;
+    background: #F7F7F7;
+    border: 1px solid #8F8F8F;
+    border-radius: 8px;
+    height: 40px;
+    padding-left: 16px;
+    margin-bottom: 24px;
+}
+
+.register__createUser-par{
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 18px;
+    color: #767676;
+}
+
+.register__createUser-span{
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 18px;
+    color: #767676;
+}
+
+.register__createUser-line{
+    text-decoration-line: underline;
+    color:#0654BA;
+}
+
+.register__createUser-btn{
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18px;
+    display: flex;
+    color: #ffffff;
+    border: none;
+    background: #4267B2;
+    border: 1px solid #C7C7C7;
+    border-radius: 24px;
+    margin-top: 18px;
+    height: 48px;
+    align-items: center;
+    padding-left: 85px;
+    cursor: pointer;
+}
+
+.register__googlelink-wrapper{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    color: #191919;
+}
+
+.register__googlelink-span{
+    margin-left: 5px ;
+    border-left: 1px solid #CCCCCC;
+    height: 193px;
+    display: flex;
+    align-items: flex-end;
+    padding-left: 86px;
+}
+
+.register__googlelink{
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 25px;
+    color: #000000;
+    text-decoration: none;
+    border: 1px solid #000000;
+    border-radius: 24px;
+    padding: 12px 40px;
+}

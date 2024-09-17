@@ -1,0 +1,34 @@
+.header__wrapper{
+    display: flex;
+    padding: 8px 25px 0;
+    border-bottom: 1px solid #E5E5E5;
+}
+
+.header__hi,.header__or{
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 15px;
+    color: #000000;
+}
+
+.header__signIn {
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 12px;
+    color: #0654BA;
+    margin: 0 4px;
+}
+
+.header__register{
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 12px;
+    color: #0654BA;
+    margin: 0 31px 0 4px;
+}
